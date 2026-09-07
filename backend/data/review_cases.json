@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rv-001",
+    "source_type": "review_case",
+    "title": "AI 相机素材复盘：高 CTR 低 CVR",
+    "impressions": 86000,
+    "clicks": 2064,
+    "CTR": "2.40%",
+    "CVR": "4.80%",
+    "CPA": "$2.60",
+    "ROAS": "0.92",
+    "creative_performance": "Before/After 素材点击高，但落地页首屏没有对应模板，导致试用转化不足。",
+    "problem_diagnosis": "素材承诺与落地页体验不一致，用户兴趣没有被及时承接。",
+    "optimization_suggestions": [
+      "落地页首屏同步展示广告模板",
+      "新增免费试用说明",
+      "弱化夸张滤镜承诺"
+    ],
+    "summary": "高点击不等于高转化，需要检查素材、落地页和产品首屏的一致性。",
+    "product_type": "AI 相机 App",
+    "region": "东南亚",
+    "is_mock": true
+  },
+  {
+    "id": "rv-002",
+    "source_type": "review_case",
+    "title": "AI 效率工具复盘：搜索高意图但 CPA 偏高",
+    "impressions": 42000,
+    "clicks": 714,
+    "CTR": "1.70%",
+    "CVR": "8.10%",
+    "CPA": "$18.40",
+    "ROAS": "1.15",
+    "creative_performance": "任务型搜索词转化稳定，但泛 AI 关键词点击成本高、转化弱。",
+    "problem_diagnosis": "关键词意图分层不足，预算被泛需求消耗。",
+    "optimization_suggestions": [
+      "拆分任务型关键词",
+      "降低泛 AI 词预算",
+      "用案例页承接高意图搜索"
+    ],
+    "summary": "当 CPA 偏高时，应优先做意图分层，而不是简单扩大预算。",
+    "product_type": "AI 效率工具",
+    "region": "欧美",
+    "is_mock": true
+  }
+]

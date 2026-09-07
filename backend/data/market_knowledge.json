@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mk-001",
+    "source_type": "market_knowledge",
+    "title": "AI 相机 App 出海东南亚：短视频内容驱动增长",
+    "region": "东南亚",
+    "product_type": "AI 相机 App",
+    "summary": "东南亚年轻用户对自拍美化、节日滤镜、社交平台分享和低门槛视频模板接受度较高。素材宜突出真实前后对比、热门平台语境和本地节日场景。",
+    "user_preferences": ["自拍美化", "短视频模板", "本地节日滤镜", "低价试用"],
+    "content_recommendations": ["使用 TikTok 风格快节奏开头", "3 秒内展示生成效果", "加入当地语言字幕"],
+    "risk_notes": ["过度美化承诺可能降低信任", "不同国家语言和宗教文化差异明显"]
+  },
+  {
+    "id": "mk-002",
+    "source_type": "market_knowledge",
+    "title": "语言学习 App 出海欧美：效率与长期陪伴并重",
+    "region": "欧美",
+    "product_type": "语言学习 App",
+    "summary": "欧美用户在语言学习产品上更重视学习路径、真实对话场景、个性化反馈和订阅价值。首轮 Campaign 适合强调可持续学习收益和 AI 陪练场景。",
+    "user_preferences": ["个性化学习", "口语练习", "进度反馈", "订阅透明"],
+    "content_recommendations": ["展示真实对话练习", "突出每日 10 分钟微习惯", "使用学习前后能力对比"],
+    "risk_notes": ["学习效果承诺需谨慎", "订阅价格敏感度较高"]
+  },
+  {
+    "id": "mk-003",
+    "source_type": "market_knowledge",
+    "title": "休闲游戏出海拉美：社交传播与低门槛挑战",
+    "region": "拉美",
+    "product_type": "休闲游戏",
+    "summary": "拉美休闲游戏用户对轻量挑战、社交互动、奖励反馈和幽默素材反应较好。素材应优先展示玩法爽点，而不是复杂系统。",
+    "user_preferences": ["快速上手", "社交挑战", "轻松幽默", "奖励反馈"],
+    "content_recommendations": ["突出 5 秒内可理解的玩法", "使用挑战式标题", "展示失败和反转瞬间"],
+    "risk_notes": ["低端设备适配影响留存", "广告承诺与实际玩法不一致会拉低 CVR"]
+  },
+  {
+    "id": "mk-004",
+    "source_type": "market_knowledge",
+    "title": "AI 效率工具出海：从功能教育转向场景结果",
+    "region": "全球",
+    "product_type": "AI 效率工具",
+    "summary": "AI 工具类产品的冷启动广告更适合从具体任务切入，例如生成报告、处理图片、改写文案和节省时间。用户需要看到任务完成过程与结果可信度。",
+    "user_preferences": ["节省时间", "结果可控", "低学习成本", "免费试用"],
+    "content_recommendations": ["用一个高频任务作为素材主线", "显示输入到输出的过程", "避免堆砌模型能力"],
+    "risk_notes": ["AI 概念同质化严重", "用户对付费前结果稳定性存在疑虑"]
+  }
+]
+

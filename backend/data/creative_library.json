@@ -1,0 +1,168 @@
+[
+  {
+    "id": "creative-camera-proof",
+    "title": "LumaSnap · 产品实拍",
+    "product_type": "AI 相机 App",
+    "regions": [
+      "泰国",
+      "印尼"
+    ],
+    "platforms": [
+      "Meta",
+      "TikTok"
+    ],
+    "tags": [
+      "产品演示",
+      "真实体验"
+    ],
+    "asset": "camera.png",
+    "layout": "editorial",
+    "headline": "Your everyday, in focus.",
+    "body": "Explore a fresh perspective.",
+    "cta": "Explore now",
+    "reuse": "复用手机实拍构图与真实操作感，不继承功能或效果承诺。",
+    "rights": "synthetic_demo",
+    "summary": "虚构相机产品的演示视觉。手机与日常场景作为单一视觉焦点。",
+    "is_mock": true,
+    "source_type": "历史创意素材库",
+    "relevance_reason": "按产品类型与地区筛选；手动选择构图，未使用 CTR 排名。"
+  },
+  {
+    "id": "creative-camera-clean",
+    "title": "LumaSnap · 留白版式",
+    "product_type": "AI 相机 App",
+    "regions": [
+      "泰国",
+      "印尼"
+    ],
+    "platforms": [
+      "Meta"
+    ],
+    "tags": [
+      "文案优先",
+      "简洁"
+    ],
+    "asset": "camera.png",
+    "layout": "split",
+    "headline": "Make room for your story.",
+    "body": "A new view of everyday moments.",
+    "cta": "Discover more",
+    "reuse": "同一合成主视觉的文字优先变体；只复用排版节奏。",
+    "rights": "synthetic_demo",
+    "summary": "模拟历史素材变体，保留大标题和独立 CTA 区域。不是另一场真实投放。",
+    "is_mock": true,
+    "source_type": "历史创意素材库",
+    "relevance_reason": "按产品类型与地区筛选；手动选择构图，未使用 CTR 排名。"
+  },
+  {
+    "id": "creative-language-scene",
+    "title": "LinguaLoop · 日常对话",
+    "product_type": "语言学习 App",
+    "regions": [
+      "美国",
+      "英国"
+    ],
+    "platforms": [
+      "Meta",
+      "YouTube"
+    ],
+    "tags": [
+      "场景化",
+      "学习"
+    ],
+    "asset": "language.png",
+    "layout": "editorial",
+    "headline": "Start a conversation.",
+    "body": "Make practice part of your day.",
+    "cta": "Explore lessons",
+    "reuse": "借鉴日常对话场景，不承诺学习天数或考试成绩。",
+    "rights": "synthetic_demo",
+    "summary": "虚构语言学习产品的桌面学习场景。",
+    "is_mock": true,
+    "source_type": "历史创意素材库",
+    "relevance_reason": "按产品类型与地区筛选；手动选择构图，未使用 CTR 排名。"
+  },
+  {
+    "id": "creative-language-type",
+    "title": "LinguaLoop · 一句话开场",
+    "product_type": "语言学习 App",
+    "regions": [
+      "美国",
+      "英国"
+    ],
+    "platforms": [
+      "Meta"
+    ],
+    "tags": [
+      "文案优先",
+      "学习"
+    ],
+    "asset": "language.png",
+    "layout": "split",
+    "headline": "One conversation at a time.",
+    "body": "Find your next learning moment.",
+    "cta": "Get started",
+    "reuse": "借鉴短标题与行动入口的层级，不继承用户评价。",
+    "rights": "synthetic_demo",
+    "summary": "同一学习主视觉的排版变体，作为合成素材库样本。",
+    "is_mock": true,
+    "source_type": "历史创意素材库",
+    "relevance_reason": "按产品类型与地区筛选；手动选择构图，未使用 CTR 排名。"
+  },
+  {
+    "id": "creative-game-play",
+    "title": "Pocket Quest · 玩法一瞥",
+    "product_type": "休闲游戏",
+    "regions": [
+      "巴西",
+      "墨西哥"
+    ],
+    "platforms": [
+      "Meta",
+      "TikTok"
+    ],
+    "tags": [
+      "玩法",
+      "短开场"
+    ],
+    "asset": "game.png",
+    "layout": "editorial",
+    "headline": "A little play. A fresh break.",
+    "body": "Meet your next puzzle moment.",
+    "cta": "Explore the game",
+    "reuse": "仅借鉴拼图主题与构图，正式广告须替换成实际玩法画面。",
+    "rights": "synthetic_demo",
+    "summary": "虚构拼图游戏示意图，不是已上线游戏截图。",
+    "is_mock": true,
+    "source_type": "历史创意素材库",
+    "relevance_reason": "按产品类型与地区筛选；手动选择构图，未使用 CTR 排名。"
+  },
+  {
+    "id": "creative-game-type",
+    "title": "Pocket Quest · 轻量休闲",
+    "product_type": "休闲游戏",
+    "regions": [
+      "巴西",
+      "墨西哥"
+    ],
+    "platforms": [
+      "Meta"
+    ],
+    "tags": [
+      "文案优先",
+      "轻量"
+    ],
+    "asset": "game.png",
+    "layout": "split",
+    "headline": "Take a playful pause.",
+    "body": "A puzzle for your next break.",
+    "cta": "Discover more",
+    "reuse": "复用轻量休闲情境，不暗示虚构奖励或无法实现的玩法。",
+    "rights": "synthetic_demo",
+    "summary": "模拟文字优先的历史素材方案，不包含真实投放表现。",
+    "is_mock": true,
+    "source_type": "历史创意素材库",
+    "relevance_reason": "按产品类型与地区筛选；手动选择构图，未使用 CTR 排名。"
+  }
+]
+

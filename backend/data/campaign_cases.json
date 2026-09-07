@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cp-001",
+    "source_type": "campaign_case",
+    "title": "AI 相机东南亚冷启动 Campaign",
+    "campaign_background": "一款 AI 相机 App 在东南亚启动首轮付费投放，希望验证写真模板和节日滤镜卖点。",
+    "target_users": "18-28 岁喜欢自拍、短视频和社交头像的年轻用户",
+    "main_selling_points": [
+      "一键写真",
+      "节日滤镜",
+      "社交头像模板"
+    ],
+    "creative_direction": "Before/After 对比 + 本地节日模板挑战",
+    "core_metrics": {
+      "CTR": "2.4%",
+      "CVR": "7.8%",
+      "CPA": "$1.90",
+      "ROAS": "1.4"
+    },
+    "summary": "强视觉结果提升 CTR，本地化模板提升评论互动，但订阅页需要补充免费试用说明。",
+    "review_conclusion": "保留结果对比素材，新增价格解释和免费试用 CTA。",
+    "product_type": "AI 相机 App",
+    "region": "东南亚",
+    "is_mock": true
+  },
+  {
+    "id": "cp-002",
+    "source_type": "campaign_case",
+    "title": "语言学习 App 欧美订阅转化 Campaign",
+    "campaign_background": "语言学习 App 面向欧美市场测试 AI 口语陪练订阅转化。",
+    "target_users": "有求职沟通、旅行、跨国沟通需求的成人学习者",
+    "main_selling_points": [
+      "AI 口语陪练",
+      "实时纠错",
+      "每日学习路径"
+    ],
+    "creative_direction": "场景短剧 + 学习前后表达对比",
+    "core_metrics": {
+      "CTR": "1.6%",
+      "CVR": "9.5%",
+      "CPA": "$14.20",
+      "ROAS": "1.8"
+    },
+    "summary": "场景化素材 CTR 中等但 CVR 更高，说明用户意图更明确。",
+    "review_conclusion": "继续强化高意图场景，并在落地页突出订阅价值。",
+    "product_type": "语言学习 App",
+    "region": "欧美",
+    "is_mock": true
+  },
+  {
+    "id": "cp-003",
+    "source_type": "campaign_case",
+    "title": "休闲游戏拉美试玩 Campaign",
+    "campaign_background": "休闲解谜游戏在拉美测试试玩转化和首日留存。",
+    "target_users": "喜欢轻量挑战和碎片化娱乐的泛游戏用户",
+    "main_selling_points": [
+      "快速上手",
+      "挑战关卡",
+      "轻松解压"
+    ],
+    "creative_direction": "失败反转 Hook + 真实玩法片段",
+    "core_metrics": {
+      "CTR": "3.1%",
+      "CVR": "11.2%",
+      "CPA": "$0.55",
+      "ROAS": "1.2"
+    },
+    "summary": "挑战式素材带来高点击，但部分素材夸张导致次日留存偏低。",
+    "review_conclusion": "控制夸张程度，确保素材玩法与真实体验一致。",
+    "product_type": "休闲游戏",
+    "region": "拉美",
+    "is_mock": true
+  }
+]

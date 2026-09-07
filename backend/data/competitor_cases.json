@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cc-001",
+    "source_type": "competitor_case",
+    "title": "AI Photo Editor 竞品案例：Before/After 强视觉对比",
+    "product_type": "AI 相机 App",
+    "target_market": "东南亚",
+    "core_selling_points": ["一键生成写真", "多风格模板", "适合社交头像"],
+    "content_style": "短视频前 2 秒展示普通照片到精修效果的对比，配合本地语言字幕和热门音乐。",
+    "channel_strategy": "TikTok 做爆款素材测试，Meta 做兴趣人群放量，Google Play 承接品牌词。",
+    "summary": "该类竞品通过强结果展示降低理解成本，但素材容易同质化，需要结合本地化场景做差异。",
+    "takeaways": ["结果先行", "模板本地化", "CTA 指向免费试用"]
+  },
+  {
+    "id": "cc-002",
+    "source_type": "competitor_case",
+    "title": "AI Language Tutor 竞品案例：口语陪练场景化表达",
+    "product_type": "语言学习 App",
+    "target_market": "欧美",
+    "core_selling_points": ["AI 口语陪练", "即时纠错", "个性化学习计划"],
+    "content_style": "以求职沟通、旅行、会议等具体场景切入，展示用户从卡顿到流利表达的过程。",
+    "channel_strategy": "YouTube Shorts 和 Meta Reels 做场景教育，Google Search 覆盖高意图学习关键词。",
+    "summary": "竞品通过明确学习场景建立订阅理由，适合借鉴其任务化表达方式。",
+    "takeaways": ["学习路径可视化", "场景价值明确", "订阅利益透明"]
+  },
+  {
+    "id": "cc-003",
+    "source_type": "competitor_case",
+    "title": "Casual Puzzle Game 竞品案例：失败反转与挑战式传播",
+    "product_type": "休闲游戏",
+    "target_market": "拉美",
+    "core_selling_points": ["轻松解谜", "关卡挑战", "离线可玩"],
+    "content_style": "以错误操作、差一步通关、夸张反转作为 Hook，刺激用户点击尝试。",
+    "channel_strategy": "TikTok 和 Unity Ads 获取泛娱乐用户，Meta 做相似人群扩量。",
+    "summary": "休闲游戏竞品更依赖玩法瞬间和挑战心理，而不是完整规则解释。",
+    "takeaways": ["低门槛理解", "挑战式 Hook", "展示真实玩法"]
+  },
+  {
+    "id": "cc-004",
+    "source_type": "competitor_case",
+    "title": "AI Writing Assistant 竞品案例：任务结果驱动转化",
+    "product_type": "AI 效率工具",
+    "target_market": "欧美",
+    "core_selling_points": ["快速改写", "多语言输出", "邮件和报告模板"],
+    "content_style": "展示用户把粗糙输入变成专业输出的过程，强调节省时间和减少反复修改。",
+    "channel_strategy": "Google Search 承接明确任务需求，LinkedIn 和 Meta 测试职场人群素材。",
+    "summary": "AI 效率工具竞品的有效卖点不是模型参数，而是具体任务完成质量。",
+    "takeaways": ["从任务切入", "展示过程可信度", "强调结果可复用"]
+  }
+]
